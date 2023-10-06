@@ -1,0 +1,14 @@
+E:\Proyectos\C#\holamundo\bin\Debug\net6.0\holamundo.exe
+E:\Proyectos\C#\holamundo\bin\Debug\net6.0\holamundo.deps.json
+E:\Proyectos\C#\holamundo\bin\Debug\net6.0\holamundo.runtimeconfig.json
+E:\Proyectos\C#\holamundo\bin\Debug\net6.0\holamundo.dll
+E:\Proyectos\C#\holamundo\bin\Debug\net6.0\holamundo.pdb
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfoInputs.cache
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfo.cs
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.dll
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\refint\holamundo.dll
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.pdb
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\holamundo.genruntimeconfig.cache
+E:\Proyectos\C#\holamundo\obj\Debug\net6.0\ref\holamundo.dll

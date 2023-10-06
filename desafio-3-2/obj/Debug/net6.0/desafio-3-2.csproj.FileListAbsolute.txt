@@ -1,0 +1,14 @@
+E:\Proyectos\C#\desafio-3-2\bin\Debug\net6.0\desafio-3-2.exe
+E:\Proyectos\C#\desafio-3-2\bin\Debug\net6.0\desafio-3-2.deps.json
+E:\Proyectos\C#\desafio-3-2\bin\Debug\net6.0\desafio-3-2.runtimeconfig.json
+E:\Proyectos\C#\desafio-3-2\bin\Debug\net6.0\desafio-3-2.dll
+E:\Proyectos\C#\desafio-3-2\bin\Debug\net6.0\desafio-3-2.pdb
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.AssemblyInfoInputs.cache
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.AssemblyInfo.cs
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.dll
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\refint\desafio-3-2.dll
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.pdb
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\desafio-3-2.genruntimeconfig.cache
+E:\Proyectos\C#\desafio-3-2\obj\Debug\net6.0\ref\desafio-3-2.dll

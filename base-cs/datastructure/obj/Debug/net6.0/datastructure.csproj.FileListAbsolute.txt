@@ -1,0 +1,14 @@
+E:\Proyectos\C#\datastructure\bin\Debug\net6.0\datastructure.exe
+E:\Proyectos\C#\datastructure\bin\Debug\net6.0\datastructure.deps.json
+E:\Proyectos\C#\datastructure\bin\Debug\net6.0\datastructure.runtimeconfig.json
+E:\Proyectos\C#\datastructure\bin\Debug\net6.0\datastructure.dll
+E:\Proyectos\C#\datastructure\bin\Debug\net6.0\datastructure.pdb
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.AssemblyInfoInputs.cache
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.AssemblyInfo.cs
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.csproj.CoreCompileInputs.cache
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.dll
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\refint\datastructure.dll
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.pdb
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\datastructure.genruntimeconfig.cache
+E:\Proyectos\C#\datastructure\obj\Debug\net6.0\ref\datastructure.dll
